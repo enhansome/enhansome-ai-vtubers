@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:53:15Z",
+            "last_commit": "2026-08-15T11:10:56Z",
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 47888
+            "stars": 47917
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2025-07-23T20:57:17Z",
             "owner": "semperai",
             "repo": "amica",
-            "stars": 1589
+            "stars": 1590
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-05-31T14:59:43Z",
             "owner": "ardha27",
             "repo": "AI-Waifu-Vtuber",
-            "stars": 1109
+            "stars": 1110
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T08:24:32Z",
+            "last_commit": "2026-08-15T07:29:11Z",
             "owner": "shinshin86",
             "repo": "aituber-onair",
-            "stars": 167
+            "stars": 168
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2023-03-15T20:43:40Z",
             "owner": "InsanityLabs",
             "repo": "AIVTuber",
-            "stars": 42
+            "stars": 43
           }
         }
       ],
@@ -118,7 +118,7 @@
             "last_commit": "2026-02-05T02:58:42Z",
             "owner": "Jackywine",
             "repo": "Bella",
-            "stars": 6383
+            "stars": 6382
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-01-20T18:46:07Z",
             "owner": "shinyflvre",
             "repo": "Mate-Engine",
-            "stars": 3534
+            "stars": 3536
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-08-14T11:59:00Z",
             "owner": "morettt",
             "repo": "my-neuro",
-            "stars": 1331
+            "stars": 1333
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2025-01-17T00:56:12Z",
             "owner": "kimjammer",
             "repo": "Neuro",
-            "stars": 2051
+            "stars": 2052
           }
         },
         {
@@ -211,10 +211,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T10:42:46Z",
+            "last_commit": "2026-08-15T09:09:49Z",
             "owner": "KroMiose",
             "repo": "nekro-agent",
-            "stars": 1085
+            "stars": 1087
           }
         }
       ],
@@ -234,7 +234,7 @@
             "last_commit": "2026-06-19T22:13:39Z",
             "owner": "SugarcaneDefender",
             "repo": "z-waif",
-            "stars": 566
+            "stars": 567
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2026-04-03T14:10:51Z",
             "owner": "Zao-chen",
             "repo": "ZcChat",
-            "stars": 557
+            "stars": 556
           }
         }
       ],
@@ -256,7 +256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:59:47.811Z",
+    "last_updated": "2026-08-15T11:37:26.084Z",
     "original_repository": "proj-airi/awesome-ai-vtubers",
     "original_repository_sha": "cb6ee50f91ea82a4b5684ad508710827506b0b1e",
     "enhanced_repository": "enhansome/enhansome-ai-vtubers",
