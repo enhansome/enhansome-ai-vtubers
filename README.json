@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T11:24:41Z",
+            "last_commit": "2026-08-18T03:41:12Z",
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 47984
+            "stars": 48036
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T22:25:43Z",
+            "last_commit": "2026-08-18T00:31:44Z",
             "owner": "shinshin86",
             "repo": "aituber-onair",
-            "stars": 168
+            "stars": 171
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-02-05T02:58:42Z",
             "owner": "Jackywine",
             "repo": "Bella",
-            "stars": 6379
+            "stars": 6378
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-01-20T18:46:07Z",
             "owner": "shinyflvre",
             "repo": "Mate-Engine",
-            "stars": 3539
+            "stars": 3545
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-16T14:30:47Z",
             "owner": "KroMiose",
             "repo": "nekro-agent",
-            "stars": 1084
+            "stars": 1088
           }
         }
       ],
@@ -256,7 +256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:44:10.263Z",
+    "last_updated": "2026-08-18T11:44:08.255Z",
     "original_repository": "proj-airi/awesome-ai-vtubers",
     "original_repository_sha": "cb6ee50f91ea82a4b5684ad508710827506b0b1e",
     "enhanced_repository": "enhansome/enhansome-ai-vtubers",
