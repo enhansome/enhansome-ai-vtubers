@@ -1,262 +1,289 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "AIRI (アイリ)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AIRI (アイリ)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 896924279,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T10:14:41Z",
+                "owner": "moeru-ai",
+                "repo": "airi",
+                "stars": 48082
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ikaros-521/AI-Vtuber",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621776077,
+                "language": "Python",
+                "last_commit": "2025-07-29T10:04:17Z",
+                "owner": "Ikaros-521",
+                "repo": "AI-Vtuber",
+                "stars": 4432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "semperai/amica",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 711338659,
+                "language": "TypeScript",
+                "last_commit": "2025-07-23T20:57:17Z",
+                "owner": "semperai",
+                "repo": "amica",
+                "stars": 1590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ardha27/AI-Waifu-Vtuber",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612610685,
+                "language": "Python",
+                "last_commit": "2026-05-31T14:59:43Z",
+                "owner": "ardha27",
+                "repo": "AI-Waifu-Vtuber",
+                "stars": 1111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swordswind/ai_virtual_mate_web",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826347828,
+                "language": "Python",
+                "last_commit": "2026-06-12T10:00:48Z",
+                "owner": "MewCo-AI",
+                "repo": "mewco_ai_assistant_comm",
+                "stars": 753
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shinshin86/aituber-onair",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 948855680,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T03:47:59Z",
+                "owner": "shinshin86",
+                "repo": "aituber-onair",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InsanityLabs/AIVTuber",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614095594,
+                "language": "JavaScript",
+                "last_commit": "2023-03-15T20:43:40Z",
+                "owner": "InsanityLabs",
+                "repo": "AIVTuber",
+                "stars": 42
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T03:41:12Z",
-            "owner": "moeru-ai",
-            "repo": "airi",
-            "stars": 48036
-          }
+          "node_type": "group",
+          "title": "A"
         },
         {
-          "node_type": "item",
-          "title": "Ikaros-521/AI-Vtuber",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bella",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1020609153,
+                "language": "JavaScript",
+                "last_commit": "2026-02-05T02:58:42Z",
+                "owner": "Jackywine",
+                "repo": "Bella",
+                "stars": 6379
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paraworks/BangDreamAi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 707544050,
+                "language": "Python",
+                "last_commit": "2024-05-16T17:32:46Z",
+                "owner": "Paraworks",
+                "repo": "BangDreamAi",
+                "stars": 58
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-29T10:04:17Z",
-            "owner": "Ikaros-521",
-            "repo": "AI-Vtuber",
-            "stars": 4430
-          }
+          "node_type": "group",
+          "title": "B"
         },
         {
-          "node_type": "item",
-          "title": "semperai/amica",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "shinyflvre/Mate-Engine",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951665915,
+                "language": "ShaderLab",
+                "last_commit": "2026-01-20T18:46:07Z",
+                "owner": "shinyflvre",
+                "repo": "Mate-Engine",
+                "stars": 3548
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "morettt/my-neuro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 910151759,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:04:13Z",
+                "owner": "morettt",
+                "repo": "my-neuro",
+                "stars": 1339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moemu/Muice-Chatbot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 684757373,
+                "language": "Python",
+                "last_commit": "2025-04-27T16:04:23Z",
+                "owner": "Moemu",
+                "repo": "Muice-Chatbot",
+                "stars": 539
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-07-23T20:57:17Z",
-            "owner": "semperai",
-            "repo": "amica",
-            "stars": 1590
-          }
+          "node_type": "group",
+          "title": "M"
         },
         {
-          "node_type": "item",
-          "title": "ardha27/AI-Waifu-Vtuber",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kimjammer/Neuro",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739984154,
+                "language": "Python",
+                "last_commit": "2025-01-17T00:56:12Z",
+                "owner": "kimjammer",
+                "repo": "Neuro",
+                "stars": 2057
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KroMiose/nekro-agent",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 834050728,
+                "language": "Python",
+                "last_commit": "2026-08-16T14:30:47Z",
+                "owner": "KroMiose",
+                "repo": "nekro-agent",
+                "stars": 1091
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-31T14:59:43Z",
-            "owner": "ardha27",
-            "repo": "AI-Waifu-Vtuber",
-            "stars": 1111
-          }
+          "node_type": "group",
+          "title": "N"
         },
         {
-          "node_type": "item",
-          "title": "swordswind/ai_virtual_mate_web",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SugarcaneDefender/z-waif",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 825118461,
+                "language": "Python",
+                "last_commit": "2026-06-19T22:13:39Z",
+                "owner": "SugarcaneDefender",
+                "repo": "z-waif",
+                "stars": 568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZcChat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 888467182,
+                "language": "C++",
+                "last_commit": "2026-04-03T14:10:51Z",
+                "owner": "Zao-chen",
+                "repo": "ZcChat",
+                "stars": 560
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-12T10:00:48Z",
-            "owner": "MewCo-AI",
-            "repo": "mewco_ai_assistant_comm",
-            "stars": 753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shinshin86/aituber-onair",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T00:31:44Z",
-            "owner": "shinshin86",
-            "repo": "aituber-onair",
-            "stars": 171
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InsanityLabs/AIVTuber",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-15T20:43:40Z",
-            "owner": "InsanityLabs",
-            "repo": "AIVTuber",
-            "stars": 42
-          }
+          "node_type": "group",
+          "title": "Z"
         }
       ],
-      "title": "A"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bella",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-02-05T02:58:42Z",
-            "owner": "Jackywine",
-            "repo": "Bella",
-            "stars": 6378
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Paraworks/BangDreamAi",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-16T17:32:46Z",
-            "owner": "Paraworks",
-            "repo": "BangDreamAi",
-            "stars": 58
-          }
-        }
-      ],
-      "title": "B"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "shinyflvre/Mate-Engine",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "ShaderLab",
-            "last_commit": "2026-01-20T18:46:07Z",
-            "owner": "shinyflvre",
-            "repo": "Mate-Engine",
-            "stars": 3545
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "morettt/my-neuro",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T15:09:45Z",
-            "owner": "morettt",
-            "repo": "my-neuro",
-            "stars": 1335
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moemu/Muice-Chatbot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-04-27T16:04:23Z",
-            "owner": "Moemu",
-            "repo": "Muice-Chatbot",
-            "stars": 539
-          }
-        }
-      ],
-      "title": "M"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "kimjammer/Neuro",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-17T00:56:12Z",
-            "owner": "kimjammer",
-            "repo": "Neuro",
-            "stars": 2053
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KroMiose/nekro-agent",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T14:30:47Z",
-            "owner": "KroMiose",
-            "repo": "nekro-agent",
-            "stars": 1088
-          }
-        }
-      ],
-      "title": "N"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SugarcaneDefender/z-waif",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-19T22:13:39Z",
-            "owner": "SugarcaneDefender",
-            "repo": "z-waif",
-            "stars": 568
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZcChat",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-03T14:10:51Z",
-            "owner": "Zao-chen",
-            "repo": "ZcChat",
-            "stars": 559
-          }
-        }
-      ],
-      "title": "Z"
+      "title": "Open Source Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:44:08.255Z",
+    "last_updated": "2026-08-19T11:43:37.349Z",
     "original_repository": "proj-airi/awesome-ai-vtubers",
     "original_repository_sha": "cb6ee50f91ea82a4b5684ad508710827506b0b1e",
     "enhanced_repository": "enhansome/enhansome-ai-vtubers",
