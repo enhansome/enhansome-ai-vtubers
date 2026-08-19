@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T10:14:41Z",
                 "owner": "moeru-ai",
                 "repo": "airi",
-                "stars": 48082
+                "stars": 48085
               }
             },
             {
@@ -89,7 +89,7 @@
                 "archived": false,
                 "id": 948855680,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T03:47:59Z",
+                "last_commit": "2026-08-19T11:47:31Z",
                 "owner": "shinshin86",
                 "repo": "aituber-onair",
                 "stars": 173
@@ -283,8 +283,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:43:37.349Z",
+    "last_updated": "2026-08-19T12:15:19.867Z",
     "original_repository": "proj-airi/awesome-ai-vtubers",
+    "original_repository_id": 960595024,
     "original_repository_sha": "cb6ee50f91ea82a4b5684ad508710827506b0b1e",
     "enhanced_repository": "enhansome/enhansome-ai-vtubers",
     "enhanced_repository_description": null,

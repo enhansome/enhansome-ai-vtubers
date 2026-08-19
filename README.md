@@ -45,7 +45,7 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 48,082 | 🐛 192 | 🌐 TypeScript | 📅 2026-08-19
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 48,085 | 🐛 192 | 🌐 TypeScript | 📅 2026-08-19
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
@@ -86,7 +86,7 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,095 | 🐛 336 | 🌐 TypeScript | 📅 2026-08-19
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,096 | 🐛 336 | 🌐 TypeScript | 📅 2026-08-19
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
@@ -98,7 +98,7 @@
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 1,589 | 🐛 46 | 🌐 Rust | 📅 2026-08-18
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 1,593 | 🐛 46 | 🌐 Rust | 📅 2026-08-18
 
   GPT chat with emotional expressions.
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,571 | 🐛 92 | 🌐 Python | 📅 2026-08-19
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,572 | 🐛 89 | 🌐 Python | 📅 2026-08-19
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
