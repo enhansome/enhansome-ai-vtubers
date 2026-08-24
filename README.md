@@ -45,7 +45,7 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 48,342 | 🐛 194 | 🌐 TypeScript | 📅 2026-08-24
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 48,353 | 🐛 194 | 🌐 TypeScript | 📅 2026-08-24
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
@@ -86,7 +86,7 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,146 | 🐛 901 | 🌐 TypeScript | 📅 2026-08-24
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,148 | 🐛 1,055 | 🌐 TypeScript | 📅 2026-08-24
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
@@ -98,7 +98,7 @@
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 1,820 | 🐛 69 | 🌐 Rust | 📅 2026-08-24
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 1,828 | 🐛 71 | 🌐 Rust | 📅 2026-08-24
 
   GPT chat with emotional expressions.
 
@@ -106,7 +106,7 @@
 
 ### M
 
-* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,576 | 🐛 124 | 🌐 ShaderLab | 📅 2026-01-20
+* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,577 | 🐛 124 | 🌐 ShaderLab | 📅 2026-01-20
 
   A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,655 | 🐛 84 | 🌐 Python | 📅 2026-08-24
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,658 | 🐛 84 | 🌐 Python | 📅 2026-08-24
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 

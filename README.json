@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 896924279,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T01:34:55Z",
+                "last_commit": "2026-08-24T14:03:47Z",
                 "owner": "moeru-ai",
                 "repo": "airi",
-                "stars": 48342
+                "stars": 48353
               }
             },
             {
@@ -156,6 +156,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "elizaOS/eliza",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 826170402,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:22:29Z",
+                "owner": "elizaOS",
+                "repo": "eliza",
+                "stars": 19148
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "E"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "limitcantcode/jaison-core",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 840103658,
+                "language": "Python",
+                "last_commit": "2026-05-28T23:14:47Z",
+                "owner": "limitcantcode",
+                "repo": "jaison-core",
+                "stars": 483
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "J"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SlimeBoyOwO/LingChat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 961384267,
+                "language": "Rust",
+                "last_commit": "2026-08-24T09:23:19Z",
+                "owner": "SlimeBoyOwO",
+                "repo": "LingChat",
+                "stars": 1828
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "L"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "shinyflvre/Mate-Engine",
               "description": null,
               "children": [],
@@ -166,7 +232,7 @@
                 "last_commit": "2026-01-20T18:46:07Z",
                 "owner": "shinyflvre",
                 "repo": "Mate-Engine",
-                "stars": 3576
+                "stars": 3577
               }
             },
             {
@@ -245,6 +311,138 @@
           "children": [
             {
               "node_type": "item",
+              "title": "t41372/Open-LLM-VTuber",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129180636,
+                "language": null,
+                "last_commit": "2026-02-14T18:57:12Z",
+                "owner": "t41372",
+                "repo": "Open-LLM-VTuber-Lab",
+                "stars": 43
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "O"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "emqnuele/projectBEA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1160393216,
+                "language": "Python",
+                "last_commit": "2026-08-24T00:57:12Z",
+                "owner": "emqnuele",
+                "repo": "projectBEA",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "P"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rayenfeng/riko_project",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1008014703,
+                "language": "Python",
+                "last_commit": "2025-06-25T01:15:44Z",
+                "owner": "rayenfeng",
+                "repo": "riko_project",
+                "stars": 1017
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "R"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PeterH0323/Streamer-Sales",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 782308046,
+                "language": "Python",
+                "last_commit": "2025-03-08T00:38:06Z",
+                "owner": "PeterH0323",
+                "repo": "Streamer-Sales",
+                "stars": 3756
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "S"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IRedDragonICY/vixevia",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 773645403,
+                "language": "Python",
+                "last_commit": "2024-12-22T14:25:29Z",
+                "owner": "IRedDragonICY",
+                "repo": "vixevia",
+                "stars": 62
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "V"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wehos/Xiao8",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1010767195,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:59:53Z",
+                "owner": "Project-N-E-K-O",
+                "repo": "N.E.K.O",
+                "stars": 2658
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "X"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SugarcaneDefender/z-waif",
               "description": null,
               "children": [],
@@ -283,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:46:34.886Z",
+    "last_updated": "2026-08-24T14:23:13.142Z",
     "original_repository": "proj-airi/awesome-ai-vtubers",
     "original_repository_id": 960595024,
     "original_repository_sha": "cb6ee50f91ea82a4b5684ad508710827506b0b1e",
