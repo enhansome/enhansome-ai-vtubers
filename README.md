@@ -45,7 +45,7 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 48,353 | 🐛 194 | 🌐 TypeScript | 📅 2026-08-24
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 48,390 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-25
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
@@ -53,7 +53,7 @@
 
   AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。
 
-* [semperai/amica](https://github.com/semperai/amica/) ⭐ 1,592 | 🐛 20 | 🌐 TypeScript | 📅 2025-07-23
+* [semperai/amica](https://github.com/semperai/amica/) ⭐ 1,592 | 🐛 19 | 🌐 TypeScript | 📅 2025-07-23
 
   Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition. (MIT, TypeScript)
 
@@ -86,19 +86,19 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,148 | 🐛 1,055 | 🌐 TypeScript | 📅 2026-08-24
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,159 | 🐛 1,340 | 🌐 TypeScript | 📅 2026-08-25
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
 ### J
 
-* [limitcantcode/jaison-core](https://github.com/limitcantcode/jaison-core) ⭐ 483 | 🐛 4 | 🌐 Python | 📅 2026-05-28
+* [limitcantcode/jaison-core](https://github.com/limitcantcode/jaison-core) ⭐ 484 | 🐛 5 | 🌐 Python | 📅 2026-05-28
 
   Configurable response server for Project J.A.I.son
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 1,828 | 🐛 71 | 🌐 Rust | 📅 2026-08-24
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 1,845 | 🐛 63 | 🌐 Rust | 📅 2026-08-24
 
   GPT chat with emotional expressions.
 
@@ -106,11 +106,11 @@
 
 ### M
 
-* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,577 | 🐛 124 | 🌐 ShaderLab | 📅 2026-01-20
+* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,580 | 🐛 121 | 🌐 ShaderLab | 📅 2026-01-20
 
   A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 
-* [morettt/my-neuro](https://github.com/morettt/my-neuro) ⭐ 1,342 | 🐛 32 | 🌐 JavaScript | 📅 2026-08-23
+* [morettt/my-neuro](https://github.com/morettt/my-neuro) ⭐ 1,342 | 🐛 32 | 🌐 JavaScript | 📅 2026-08-25
 
   这是一个属于你自己的 Neuro-sama
 
@@ -120,7 +120,7 @@
 
 ### N
 
-* [kimjammer/Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,065 | 🐛 7 | 🌐 Python | 📅 2025-01-17
+* [kimjammer/Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,066 | 🐛 7 | 🌐 Python | 📅 2025-01-17
 
   A recreation of Neuro-Sama originally created in 7 days. (MIT, Python)
 
@@ -148,7 +148,7 @@
 
 ### S
 
-* [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) ⭐ 3,756 | 🐛 14 | 🌐 Python | 📅 2025-03-08
+* [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) ⭐ 3,757 | 🐛 14 | 🌐 Python | 📅 2025-03-08
 
   Trending Selling LLM 🛒🎁, a selling LLM capable of explaining products based on the characteristics of the given product from the perspective of motivating the user's purchase intention. (AGPL, Python, Vue)
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,658 | 🐛 84 | 🌐 Python | 📅 2026-08-24
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,664 | 🐛 89 | 🌐 Python | 📅 2026-08-25
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
@@ -180,4 +180,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
