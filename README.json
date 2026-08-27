@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 896924279,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T11:48:28Z",
+                "last_commit": "2026-08-27T09:25:06Z",
                 "owner": "moeru-ai",
                 "repo": "airi",
-                "stars": 48435
+                "stars": 48473
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-07-23T20:57:17Z",
                 "owner": "semperai",
                 "repo": "amica",
-                "stars": 1592
+                "stars": 1593
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-05-31T14:59:43Z",
                 "owner": "ardha27",
                 "repo": "AI-Waifu-Vtuber",
-                "stars": 1113
+                "stars": 1114
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-06-12T10:00:48Z",
                 "owner": "MewCo-AI",
                 "repo": "mewco_ai_assistant_comm",
-                "stars": 754
+                "stars": 755
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-02-05T02:58:42Z",
                 "owner": "Jackywine",
                 "repo": "Bella",
-                "stars": 6379
+                "stars": 6378
               }
             },
             {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 826170402,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T11:47:38Z",
+                "last_commit": "2026-08-27T10:46:37Z",
                 "owner": "elizaOS",
                 "repo": "eliza",
-                "stars": 19171
+                "stars": 19184
               }
             }
           ],
@@ -207,10 +207,10 @@
                 "archived": false,
                 "id": 961384267,
                 "language": "Rust",
-                "last_commit": "2026-08-26T09:40:19Z",
+                "last_commit": "2026-08-26T18:16:08Z",
                 "owner": "SlimeBoyOwO",
                 "repo": "LingChat",
-                "stars": 1891
+                "stars": 1928
               }
             }
           ],
@@ -232,7 +232,7 @@
                 "last_commit": "2026-01-20T18:46:07Z",
                 "owner": "shinyflvre",
                 "repo": "Mate-Engine",
-                "stars": 3586
+                "stars": 3588
               }
             },
             {
@@ -244,10 +244,10 @@
                 "archived": false,
                 "id": 910151759,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T18:27:03Z",
+                "last_commit": "2026-08-27T05:47:08Z",
                 "owner": "morettt",
                 "repo": "my-neuro",
-                "stars": 1342
+                "stars": 1345
               }
             },
             {
@@ -296,10 +296,10 @@
                 "archived": false,
                 "id": 834050728,
                 "language": "Python",
-                "last_commit": "2026-08-20T09:55:42Z",
+                "last_commit": "2026-08-27T03:47:07Z",
                 "owner": "KroMiose",
                 "repo": "nekro-agent",
-                "stars": 1103
+                "stars": 1105
               }
             }
           ],
@@ -340,10 +340,10 @@
                 "archived": false,
                 "id": 1160393216,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:15:30Z",
+                "last_commit": "2026-08-27T02:58:01Z",
                 "owner": "emqnuele",
                 "repo": "projectBEA",
-                "stars": 11
+                "stars": 13
               }
             }
           ],
@@ -365,7 +365,7 @@
                 "last_commit": "2025-06-25T01:15:44Z",
                 "owner": "rayenfeng",
                 "repo": "riko_project",
-                "stars": 1021
+                "stars": 1028
               }
             }
           ],
@@ -387,7 +387,7 @@
                 "last_commit": "2025-03-08T00:38:06Z",
                 "owner": "PeterH0323",
                 "repo": "Streamer-Sales",
-                "stars": 3761
+                "stars": 3760
               }
             }
           ],
@@ -409,7 +409,7 @@
                 "last_commit": "2024-12-22T14:25:29Z",
                 "owner": "IRedDragonICY",
                 "repo": "vixevia",
-                "stars": 62
+                "stars": 63
               }
             }
           ],
@@ -428,10 +428,10 @@
                 "archived": false,
                 "id": 1010767195,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:26:02Z",
+                "last_commit": "2026-08-27T05:49:41Z",
                 "owner": "Project-N-E-K-O",
                 "repo": "N.E.K.O",
-                "stars": 2679
+                "stars": 2687
               }
             }
           ],
@@ -481,9 +481,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:48:33.296Z",
-    "original_repository": "proj-airi/awesome-ai-vtubers",
-    "original_repository_id": 960595024,
+    "last_updated": "2026-08-27T11:19:02.315Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 960595024,
+      "language": null,
+      "last_commit": "2026-04-15T21:38:01Z",
+      "owner": "proj-airi",
+      "repo": "awesome-ai-vtubers",
+      "stars": 488
+    },
     "original_repository_sha": "cb6ee50f91ea82a4b5684ad508710827506b0b1e",
     "enhanced_repository": "enhansome/enhansome-ai-vtubers",
     "enhanced_repository_description": null,
