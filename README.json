@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 896924279,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T09:25:06Z",
+                "last_commit": "2026-08-27T20:59:17Z",
                 "owner": "moeru-ai",
                 "repo": "airi",
-                "stars": 48473
+                "stars": 48490
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-07-23T20:57:17Z",
                 "owner": "semperai",
                 "repo": "amica",
-                "stars": 1593
+                "stars": 1594
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-21T13:43:53Z",
                 "owner": "shinshin86",
                 "repo": "aituber-onair",
-                "stars": 175
+                "stars": 176
               }
             },
             {
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 826170402,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:46:37Z",
+                "last_commit": "2026-08-27T20:59:06Z",
                 "owner": "elizaOS",
                 "repo": "eliza",
-                "stars": 19184
+                "stars": 19189
               }
             }
           ],
@@ -207,10 +207,10 @@
                 "archived": false,
                 "id": 961384267,
                 "language": "Rust",
-                "last_commit": "2026-08-26T18:16:08Z",
+                "last_commit": "2026-08-27T18:40:10Z",
                 "owner": "SlimeBoyOwO",
                 "repo": "LingChat",
-                "stars": 1928
+                "stars": 1939
               }
             }
           ],
@@ -232,7 +232,7 @@
                 "last_commit": "2026-01-20T18:46:07Z",
                 "owner": "shinyflvre",
                 "repo": "Mate-Engine",
-                "stars": 3588
+                "stars": 3591
               }
             },
             {
@@ -244,10 +244,10 @@
                 "archived": false,
                 "id": 910151759,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T05:47:08Z",
+                "last_commit": "2026-08-27T18:01:54Z",
                 "owner": "morettt",
                 "repo": "my-neuro",
-                "stars": 1345
+                "stars": 1347
               }
             },
             {
@@ -321,7 +321,7 @@
                 "last_commit": "2026-02-14T18:57:12Z",
                 "owner": "t41372",
                 "repo": "Open-LLM-VTuber-Lab",
-                "stars": 43
+                "stars": 44
               }
             }
           ],
@@ -428,10 +428,10 @@
                 "archived": false,
                 "id": 1010767195,
                 "language": "Python",
-                "last_commit": "2026-08-27T05:49:41Z",
+                "last_commit": "2026-08-27T17:49:17Z",
                 "owner": "Project-N-E-K-O",
                 "repo": "N.E.K.O",
-                "stars": 2687
+                "stars": 2692
               }
             }
           ],
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:02.315Z",
+    "last_updated": "2026-08-27T21:03:21.143Z",
     "original_repository_info": {
       "archived": false,
       "id": 960595024,
