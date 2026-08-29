@@ -45,11 +45,11 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 48,543 | 🐛 197 | 🌐 TypeScript | 📅 2026-08-29
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 48,557 | 🐛 193 | 🌐 TypeScript | 📅 2026-08-29
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
-* [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) ⭐ 4,438 | 🐛 33 | 🌐 Python | 📅 2025-07-29
+* [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) ⭐ 4,439 | 🐛 33 | 🌐 Python | 📅 2025-07-29
 
   AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。
 
@@ -61,11 +61,11 @@
 
   AI Vtuber for Streaming on Youtube/Twitch. (Unlicensed, Python)
 
-* [swordswind/ai\_virtual\_mate\_web](https://github.com/swordswind/ai_virtual_mate_web) ⭐ 756 | 🐛 0 | 🌐 Python | 📅 2026-06-12
+* [swordswind/ai\_virtual\_mate\_web](https://github.com/swordswind/ai_virtual_mate_web) ⭐ 755 | 🐛 0 | 🌐 Python | 📅 2026-06-12
 
   AI虚拟伙伴 Web 版
 
-* [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair) ⭐ 177 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-28
+* [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair) ⭐ 178 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-29
 
   AITuber OnAir — an open‑source monorepo for AITuber/AIVTuber streaming with packages for chat/LLM integration, multi‑engine TTS/voice, a WebSocket chat client, and a “kizuna” relationship system. (MIT, TypeScript)
 
@@ -86,7 +86,7 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,201 | 🐛 1,386 | 🌐 TypeScript | 📅 2026-08-29
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,206 | 🐛 1,382 | 🌐 TypeScript | 📅 2026-08-29
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
@@ -98,7 +98,7 @@
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 1,969 | 🐛 76 | 🌐 Rust | 📅 2026-08-28
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 1,985 | 🐛 77 | 🌐 Rust | 📅 2026-08-28
 
   GPT chat with emotional expressions.
 
@@ -136,7 +136,7 @@
 
 ### P
 
-* [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-08-28
+* [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-08-28
 
   A modular, fully autonomous AI VTuber engine built around a plugin skill system. Supports multiple LLMs (Gemini, OpenAI, Groq, GLM) and TTS providers (EdgeTTS, Kokoro, Orpheus), long-term RAG memory via ChromaDB, Discord voice integration, an autonomous Minecraft agent, OBS control, and a React + FastAPI web dashboard. Designed for modularity and extensibility. (MIT, Python, JavaScript)
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,697 | 🐛 82 | 🌐 Python | 📅 2026-08-29
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,698 | 🐛 79 | 🌐 Python | 📅 2026-08-29
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
