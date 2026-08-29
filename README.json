@@ -12,12 +12,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+                "homepage": "https://airi.moeru.ai/docs/",
                 "id": 896924279,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T21:13:57Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:18:39Z",
+                "open_issues": 197,
                 "owner": "moeru-ai",
                 "repo": "airi",
-                "stars": 48536
+                "stars": 48543,
+                "topics": [
+                  "ai-companion",
+                  "ai-vtuber",
+                  "airi",
+                  "digital-life",
+                  "grok-companion",
+                  "live2d",
+                  "neuro-sama",
+                  "neurosama",
+                  "openclaw",
+                  "vrm",
+                  "vtuber"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -28,12 +45,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。",
+                "homepage": "https://ikaros-521.github.io/Luna-Docs/site/",
                 "id": 621776077,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-29T10:04:17Z",
+                "open_issues": 33,
                 "owner": "Ikaros-521",
                 "repo": "AI-Vtuber",
-                "stars": 4438
+                "stars": 4438,
+                "topics": [
+                  "ai",
+                  "bilibili",
+                  "claude",
+                  "douyin",
+                  "gpt",
+                  "kuaishou",
+                  "langchain",
+                  "live2d",
+                  "llm",
+                  "ollama",
+                  "python",
+                  "qanything",
+                  "stable-diffusion",
+                  "svc",
+                  "tiktok",
+                  "tts",
+                  "twitch",
+                  "ue",
+                  "vits",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -44,12 +87,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.",
+                "homepage": "https://heyamica.com",
                 "id": 711338659,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-23T20:57:17Z",
+                "open_issues": 19,
                 "owner": "semperai",
                 "repo": "amica",
-                "stars": 1593
+                "stars": 1593,
+                "topics": [
+                  "ai",
+                  "assistant-chat-bots",
+                  "computer-vision",
+                  "llm",
+                  "speech-recognition",
+                  "tts"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -60,12 +115,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Vtuber for Streaming on Youtube/Twitch",
+                "homepage": null,
                 "id": 612610685,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-31T14:59:43Z",
+                "open_issues": 44,
                 "owner": "ardha27",
                 "repo": "AI-Waifu-Vtuber",
-                "stars": 1114
+                "stars": 1114,
+                "topics": [
+                  "ai-vtuber",
+                  "ai-waifu",
+                  "deepl",
+                  "openai",
+                  "speech-recognition",
+                  "speech-synthesis",
+                  "speech-to-text",
+                  "tts",
+                  "voicevox",
+                  "vtuber",
+                  "whisper"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -76,12 +148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "枫云AI助手社区版",
+                "homepage": "https://mewco-ai.github.io/2024/07/09/asstcomm/",
                 "id": 826347828,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-12T10:00:48Z",
+                "open_issues": 0,
                 "owner": "MewCo-AI",
                 "repo": "mewco_ai_assistant_comm",
-                "stars": 756
+                "stars": 756,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -92,12 +169,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source TypeScript toolkit for building Neuro-sama-style AI VTubers and AI characters that chat, speak, remember, and react to live viewers.",
+                "homepage": "https://start-aituber-with-ai-agent.aituberonair.com",
                 "id": 948855680,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:08:21Z",
+                "open_issues": 2,
                 "owner": "shinshin86",
                 "repo": "aituber-onair",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "ai-companion",
+                  "ai-companion-systems",
+                  "ai-vtuber",
+                  "aichat",
+                  "aichatbot",
+                  "aituber",
+                  "aivoice",
+                  "vtuber"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -108,12 +199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I'm not Neuro-Sama, I'm an artificial intelligence created by DevPattarapong It is currently in development using OpenAI models and Live2D characters.",
+                "homepage": "https://www.twitch.tv/ponlponl123",
                 "id": 614095594,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-15T20:43:40Z",
+                "open_issues": 0,
                 "owner": "InsanityLabs",
                 "repo": "AIVTuber",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -131,12 +227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bella is best",
+                "homepage": null,
                 "id": 1020609153,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-02-05T02:58:42Z",
+                "open_issues": 72,
                 "owner": "Jackywine",
                 "repo": "Bella",
-                "stars": 6378
+                "stars": 6378,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -147,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "适用于2代live2d的Ai vtuber 适用于本地或网页部署",
+                "homepage": null,
                 "id": 707544050,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-16T17:32:46Z",
+                "open_issues": 3,
                 "owner": "Paraworks",
                 "repo": "BangDreamAi",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -170,12 +276,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source agentic operating system",
+                "homepage": "https://elizaresearch.ai/",
                 "id": 826170402,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T21:26:20Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:13:33Z",
+                "open_issues": 1386,
                 "owner": "elizaOS",
                 "repo": "eliza",
-                "stars": 19197
+                "stars": 19201,
+                "topics": [
+                  "agent",
+                  "agentic",
+                  "ai",
+                  "autonomous",
+                  "chatbot",
+                  "crypto",
+                  "discord",
+                  "eliza",
+                  "elizaos",
+                  "framework",
+                  "plugins",
+                  "rag",
+                  "slack",
+                  "swarm",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -193,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Configurable response server for Project J.A.I.son",
+                "homepage": null,
                 "id": 840103658,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-28T23:14:47Z",
+                "open_issues": 5,
                 "owner": "limitcantcode",
                 "repo": "jaison-core",
-                "stars": 484
+                "stars": 484,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -216,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Immersive AI-driven Galgame chat with emotional expressions, desktop pet, scheduling, and interactive story modules. / 一款沉浸式 AI-Galgame 聊天软件，附带桌宠，日程，剧情功能",
+                "homepage": "https://lingchat.wiki/",
                 "id": 961384267,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T18:26:32Z",
+                "open_issues": 76,
                 "owner": "SlimeBoyOwO",
                 "repo": "LingChat",
-                "stars": 1965
+                "stars": 1969,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -239,12 +376,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.",
+                "homepage": "https://store.steampowered.com/app/3625270/MateEngine/",
                 "id": 951665915,
                 "language": "ShaderLab",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-20T18:46:07Z",
+                "open_issues": 124,
                 "owner": "shinyflvre",
                 "repo": "Mate-Engine",
-                "stars": 3596
+                "stars": 3596,
+                "topics": [
+                  "anime",
+                  "desktop",
+                  "desktop-mate",
+                  "desktop-pet",
+                  "mate-engine",
+                  "pet"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -255,12 +404,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project lets you create your own AI desktop companion with customizable characters and voice conversations that respond in just 1 second. Features include long-term memory, visual recognition, voice cloning and LLM training. Compatible with various Live2D customizations.",
+                "homepage": null,
                 "id": 910151759,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T18:01:54Z",
+                "open_issues": 32,
                 "owner": "morettt",
                 "repo": "my-neuro",
-                "stars": 1347
+                "stars": 1347,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "ai-vtuber",
+                  "chatbots",
+                  "live2d",
+                  "llm",
+                  "neuro-sama",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -271,12 +434,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "沐雪，一个会自动找你聊天的AI女孩子",
+                "homepage": null,
                 "id": 684757373,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-27T16:04:23Z",
+                "open_issues": 0,
                 "owner": "Moemu",
                 "repo": "Muice-Chatbot",
-                "stars": 539
+                "stars": 539,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -294,12 +462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A recreation of Neuro-Sama originally created in 7 days.",
+                "homepage": null,
                 "id": 739984154,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-17T00:56:12Z",
+                "open_issues": 7,
                 "owner": "kimjammer",
                 "repo": "Neuro",
-                "stars": 2069
+                "stars": 2069,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -310,12 +483,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NekroAgent 是一个面向多人互动场景的跨平台 Agent 框架，集 Claude Code 沙盒执行、工作区编排、长期记忆、结构化 MCP 管理与可视化控制台于一体，兼具高扩展性、多模态交互、实时状态推送和自动化运行能力。项目支持 QQ、Discord、Telegram、Minecraft、BilibiliLive、WeChat、Email、SSE(SDK) 等多种平台接入，应用于构建高智能聊天机器人，可扩展为具备代码执行、工具调用、插件协作和复杂任务处理能力的通用 Agent 系统",
+                "homepage": "https://nekro.ai",
                 "id": 834050728,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T03:47:07Z",
+                "open_issues": 28,
                 "owner": "KroMiose",
                 "repo": "nekro-agent",
-                "stars": 1108
+                "stars": 1108,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "chatbot",
+                  "claudecode",
+                  "multiuserchat",
+                  "openai",
+                  "python",
+                  "sandbox"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -333,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main Open-LLM-VTuber has been moved to Open-LLM-VTuber/Open-LLM-VTuber. This repo is Yi-Ting's own lab/workspace for Open-LLM-VTuber and archives of ancient branches from the main repo.",
+                "homepage": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
                 "id": 1129180636,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-14T18:57:12Z",
+                "open_issues": 0,
                 "owner": "t41372",
                 "repo": "Open-LLM-VTuber-Lab",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -356,12 +548,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ProjectBEA is a modular, autonomous AI VTuber engine. Features RAG memory, OBS integration, Discord voice calls, and an autonomous Minecraft agent. Built with Python/React, it supports swappable LLMs/TTS and a plugin-based skill system for easy extension.",
+                "homepage": "https://projectbea.emqnuele.dev/",
                 "id": 1160393216,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:26:23Z",
+                "open_issues": 1,
                 "owner": "emqnuele",
                 "repo": "projectBEA",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "ai",
+                  "ai-agent",
+                  "ai-vtuber",
+                  "ai-vtuber-model",
+                  "autonomous-agents",
+                  "vtuber"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -379,12 +583,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The public version of the Riko Project",
+                "homepage": null,
                 "id": 1008014703,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-25T01:15:44Z",
+                "open_issues": 21,
                 "owner": "rayenfeng",
                 "repo": "riko_project",
-                "stars": 1032
+                "stars": 1033,
+                "topics": [
+                  "ai",
+                  "anime"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -402,12 +614,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点从激发用户购买意愿角度出发进行商品解说的卖货主播大模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊、数字人生成 🦸、 Agent 使用网络查询实时信息🌐、ASR 语音转文字🎙️、Vue 生态搭建前端🍍、FastAPI 搭建后端🗝️、Docker-compose 打包部署🐋",
+                "homepage": "https://openxlab.org.cn/apps/detail/HinGwenWong/Streamer-Sales",
                 "id": 782308046,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-03-08T00:38:06Z",
+                "open_issues": 14,
                 "owner": "PeterH0323",
                 "repo": "Streamer-Sales",
-                "stars": 3763
+                "stars": 3763,
+                "topics": [
+                  "asr",
+                  "chat",
+                  "chat-application",
+                  "chatbot",
+                  "chatgpt",
+                  "digital-human",
+                  "gpt",
+                  "internlm-chat-7b",
+                  "internlm2",
+                  "llm",
+                  "meta-human",
+                  "rag",
+                  "text-generation",
+                  "tts"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -425,12 +657,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AI-powered Virtual YouTuber (Vtuber) utilizing Google's Gemini language model to create engaging, personalized, and context-aware interactions. This project explores the potential of AI in human-computer interaction and virtual content creation.",
+                "homepage": null,
                 "id": 773645403,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-22T14:25:29Z",
+                "open_issues": 2,
                 "owner": "IRedDragonICY",
                 "repo": "vixevia",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "ai",
+                  "anime",
+                  "api",
+                  "artificial-intelligence",
+                  "chatbot",
+                  "collaborate",
+                  "gemini-api",
+                  "gemini-chatbot",
+                  "gemini-pro",
+                  "gemini-pro-vision",
+                  "gemini-vision-pro",
+                  "girl",
+                  "google",
+                  "javascript",
+                  "python",
+                  "vits",
+                  "vtuber",
+                  "waifu",
+                  "whisper",
+                  "youtuber"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -448,12 +706,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.🐱❤️一只会主动找你玩的 AI 猫娘。",
+                "homepage": "https://store.steampowered.com/app/4099310",
                 "id": 1010767195,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:02:12Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:40:37Z",
+                "open_issues": 82,
                 "owner": "Project-N-E-K-O",
                 "repo": "N.E.K.O",
-                "stars": 2694
+                "stars": 2697,
+                "topics": [
+                  "companion",
+                  "digital-human",
+                  "harness",
+                  "jarvis-assistant",
+                  "own-your-data",
+                  "personal",
+                  "proactive-agent",
+                  "proactive-ai",
+                  "waifu"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -471,12 +744,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fully local program to make your own AI waifu! Vtuber model, voice, ect. Emphasis on personal use and companionship.",
+                "homepage": null,
                 "id": 825118461,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-19T22:13:39Z",
+                "open_issues": 4,
                 "owner": "SugarcaneDefender",
                 "repo": "z-waif",
-                "stars": 570
+                "stars": 571,
+                "topics": [
+                  "ai-waifu",
+                  "open-source",
+                  "python",
+                  "vtuber",
+                  "vtuber-bot",
+                  "waifu"
+                ]
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             },
@@ -487,12 +772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个模仿Galgame效果的AI桌宠 | An AI desktop pet that mimics the effects of a Galgame",
+                "homepage": null,
                 "id": 888467182,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-03T14:10:51Z",
+                "open_issues": 3,
                 "owner": "Zao-chen",
                 "repo": "ZcChat",
-                "stars": 563
+                "stars": 563,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
             }
@@ -506,15 +796,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:26:44.268Z",
+    "last_updated": "2026-08-29T04:42:45.303Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🧾🧸 A curated list of AI VTubers and their related projects",
+      "homepage": null,
       "id": 960595024,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-04-15T21:38:01Z",
+      "open_issues": 3,
       "owner": "proj-airi",
       "repo": "awesome-ai-vtubers",
-      "stars": 488
+      "stars": 488,
+      "topics": [
+        "ai-companion",
+        "ai-vtuber",
+        "ai-waifu",
+        "awesome",
+        "awesome-list",
+        "chatbot",
+        "chatgpt",
+        "neuro-sama",
+        "proj-airi"
+      ]
     },
     "original_repository_sha": "cb6ee50f91ea82a4b5684ad508710827506b0b1e",
     "enhanced_repository": "enhansome/enhansome-ai-vtubers",

@@ -45,7 +45,7 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 48,536 | 🐛 197 | 🌐 TypeScript | 📅 2026-08-28
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 48,543 | 🐛 197 | 🌐 TypeScript | 📅 2026-08-29
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
@@ -86,7 +86,7 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,197 | 🐛 1,312 | 🌐 TypeScript | 📅 2026-08-28
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,201 | 🐛 1,386 | 🌐 TypeScript | 📅 2026-08-29
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
@@ -98,7 +98,7 @@
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 1,965 | 🐛 76 | 🌐 Rust | 📅 2026-08-28
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 1,969 | 🐛 76 | 🌐 Rust | 📅 2026-08-28
 
   GPT chat with emotional expressions.
 
@@ -142,7 +142,7 @@
 
 ### R
 
-* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,032 | 🐛 21 | 🌐 Python | 📅 2025-06-25
+* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,033 | 🐛 21 | 🌐 Python | 📅 2025-06-25
 
   The public version of the Riko Project
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,694 | 🐛 83 | 🌐 Python | 📅 2026-08-28
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,697 | 🐛 82 | 🌐 Python | 📅 2026-08-29
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
@@ -168,7 +168,7 @@
 
 ### Z
 
-* [SugarcaneDefender/z-waif](https://github.com/SugarcaneDefender/z-waif) ⭐ 570 | 🐛 4 | 🌐 Python | 📅 2026-06-19
+* [SugarcaneDefender/z-waif](https://github.com/SugarcaneDefender/z-waif) ⭐ 571 | 🐛 4 | 🌐 Python | 📅 2026-06-19
 
   Fully local program to make your own AI waifu! Vtuber model, voice, ect. (MIT, Python)
 
@@ -180,4 +180,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
