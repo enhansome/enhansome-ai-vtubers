@@ -17,11 +17,11 @@
                 "id": 896924279,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T16:24:13Z",
-                "open_issues": 209,
+                "last_commit": "2026-09-08T14:47:29Z",
+                "open_issues": 214,
                 "owner": "moeru-ai",
                 "repo": "airi",
-                "stars": 48883,
+                "stars": 48920,
                 "topics": [
                   "ai-companion",
                   "ai-vtuber",
@@ -54,7 +54,7 @@
                 "open_issues": 33,
                 "owner": "Ikaros-521",
                 "repo": "AI-Vtuber",
-                "stars": 4446,
+                "stars": 4447,
                 "topics": [
                   "ai",
                   "bilibili",
@@ -281,11 +281,11 @@
                 "id": 826170402,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T16:10:44Z",
-                "open_issues": 1269,
+                "last_commit": "2026-09-08T10:50:22Z",
+                "open_issues": 1276,
                 "owner": "elizaOS",
                 "repo": "eliza",
-                "stars": 19278,
+                "stars": 19296,
                 "topics": [
                   "agent",
                   "agentic",
@@ -329,7 +329,7 @@
                 "open_issues": 5,
                 "owner": "limitcantcode",
                 "repo": "jaison-core",
-                "stars": 489,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -357,7 +357,7 @@
                 "open_issues": 92,
                 "owner": "SlimeBoyOwO",
                 "repo": "LingChat",
-                "stars": 2111,
+                "stars": 2121,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -385,7 +385,7 @@
                 "open_issues": 125,
                 "owner": "shinyflvre",
                 "repo": "Mate-Engine",
-                "stars": 3627,
+                "stars": 3630,
                 "topics": [
                   "anime",
                   "desktop",
@@ -471,7 +471,7 @@
                 "open_issues": 7,
                 "owner": "kimjammer",
                 "repo": "Neuro",
-                "stars": 2080,
+                "stars": 2081,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -548,12 +548,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "ProjectBEA is a modular, autonomous AI VTuber engine. Features RAG memory, OBS integration, Discord voice calls, and an autonomous Minecraft agent. Built with Python/React, it supports swappable LLMs/TTS and a plugin-based skill system for easy extension.",
+                "description": "ProjectBEA is a modular, autonomous AI VTuber system. Features RAG memory, OBS integration, Discord voice calls, and an autonomous Minecraft agent. Built with Python/React, it supports swappable LLMs/TTS and a plugin-based skill system for easy extension.",
                 "homepage": "https://projectbea.emqnuele.dev/",
                 "id": 1160393216,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-07T06:14:40Z",
+                "last_commit": "2026-09-08T11:23:02Z",
                 "open_issues": 1,
                 "owner": "emqnuele",
                 "repo": "projectBEA",
@@ -592,7 +592,7 @@
                 "open_issues": 21,
                 "owner": "rayenfeng",
                 "repo": "riko_project",
-                "stars": 1056,
+                "stars": 1059,
                 "topics": [
                   "ai",
                   "anime"
@@ -623,7 +623,7 @@
                 "open_issues": 14,
                 "owner": "PeterH0323",
                 "repo": "Streamer-Sales",
-                "stars": 3768,
+                "stars": 3767,
                 "topics": [
                   "asr",
                   "chat",
@@ -711,11 +711,11 @@
                 "id": 1010767195,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T12:40:29Z",
-                "open_issues": 75,
+                "last_commit": "2026-09-08T13:09:31Z",
+                "open_issues": 77,
                 "owner": "Project-N-E-K-O",
                 "repo": "N.E.K.O",
-                "stars": 2784,
+                "stars": 2798,
                 "topics": [
                   "companion",
                   "digital-human",
@@ -753,7 +753,7 @@
                 "open_issues": 4,
                 "owner": "SugarcaneDefender",
                 "repo": "z-waif",
-                "stars": 576,
+                "stars": 582,
                 "topics": [
                   "ai-waifu",
                   "open-source",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:30:48.973Z",
+    "last_updated": "2026-09-08T15:10:10.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧾🧸 A curated list of AI VTubers and their related projects",
@@ -808,7 +808,7 @@
       "open_issues": 3,
       "owner": "proj-airi",
       "repo": "awesome-ai-vtubers",
-      "stars": 490,
+      "stars": 491,
       "topics": [
         "ai-companion",
         "ai-vtuber",
