@@ -17,11 +17,11 @@
                 "id": 896924279,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T14:47:29Z",
-                "open_issues": 214,
+                "last_commit": "2026-09-09T14:03:15Z",
+                "open_issues": 217,
                 "owner": "moeru-ai",
                 "repo": "airi",
-                "stars": 48920,
+                "stars": 48978,
                 "topics": [
                   "ai-companion",
                   "ai-vtuber",
@@ -157,7 +157,7 @@
                 "open_issues": 0,
                 "owner": "MewCo-AI",
                 "repo": "mewco_ai_assistant_comm",
-                "stars": 754,
+                "stars": 753,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -236,7 +236,7 @@
                 "open_issues": 72,
                 "owner": "Jackywine",
                 "repo": "Bella",
-                "stars": 6373,
+                "stars": 6372,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -281,11 +281,11 @@
                 "id": 826170402,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T10:50:22Z",
-                "open_issues": 1276,
+                "last_commit": "2026-09-09T12:55:09Z",
+                "open_issues": 1298,
                 "owner": "elizaOS",
                 "repo": "eliza",
-                "stars": 19296,
+                "stars": 19307,
                 "topics": [
                   "agent",
                   "agentic",
@@ -329,7 +329,7 @@
                 "open_issues": 5,
                 "owner": "limitcantcode",
                 "repo": "jaison-core",
-                "stars": 488,
+                "stars": 489,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -353,11 +353,11 @@
                 "id": 961384267,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-07T14:52:19Z",
+                "last_commit": "2026-09-08T16:38:56Z",
                 "open_issues": 92,
                 "owner": "SlimeBoyOwO",
                 "repo": "LingChat",
-                "stars": 2121,
+                "stars": 2128,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -385,7 +385,7 @@
                 "open_issues": 125,
                 "owner": "shinyflvre",
                 "repo": "Mate-Engine",
-                "stars": 3630,
+                "stars": 3635,
                 "topics": [
                   "anime",
                   "desktop",
@@ -409,7 +409,7 @@
                 "id": 910151759,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T07:25:14Z",
+                "last_commit": "2026-09-09T01:00:07Z",
                 "open_issues": 32,
                 "owner": "morettt",
                 "repo": "my-neuro",
@@ -471,7 +471,7 @@
                 "open_issues": 7,
                 "owner": "kimjammer",
                 "repo": "Neuro",
-                "stars": 2081,
+                "stars": 2082,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -492,7 +492,7 @@
                 "open_issues": 28,
                 "owner": "KroMiose",
                 "repo": "nekro-agent",
-                "stars": 1117,
+                "stars": 1116,
                 "topics": [
                   "agent",
                   "ai",
@@ -548,22 +548,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "ProjectBEA is a modular, autonomous AI VTuber system. Features RAG memory, OBS integration, Discord voice calls, and an autonomous Minecraft agent. Built with Python/React, it supports swappable LLMs/TTS and a plugin-based skill system for easy extension.",
+                "description": "ProjectBEA is an always-on AI persona engine: she talks, plays Minecraft with real people, and remembers you between sessions. One mind across Discord, Telegram, Twitch and Minecraft — not a bot per platform.",
                 "homepage": "https://projectbea.emqnuele.dev/",
                 "id": 1160393216,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-08T11:23:02Z",
+                "last_commit": "2026-09-09T13:41:33Z",
                 "open_issues": 1,
                 "owner": "emqnuele",
                 "repo": "projectBEA",
                 "stars": 14,
                 "topics": [
-                  "ai",
+                  "agent-framework",
                   "ai-agent",
                   "ai-vtuber",
-                  "ai-vtuber-model",
                   "autonomous-agents",
+                  "chatbot",
+                  "discord-bot",
+                  "fastapi",
+                  "llm",
+                  "llm-agent",
+                  "minecraft",
+                  "minecraft-bot",
+                  "obs",
+                  "python",
+                  "rag",
+                  "react",
+                  "telegram-bot",
+                  "text-to-speech",
+                  "twitch-bot",
                   "vtuber"
                 ]
               },
@@ -623,7 +636,7 @@
                 "open_issues": 14,
                 "owner": "PeterH0323",
                 "repo": "Streamer-Sales",
-                "stars": 3767,
+                "stars": 3768,
                 "topics": [
                   "asr",
                   "chat",
@@ -711,11 +724,11 @@
                 "id": 1010767195,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T13:09:31Z",
-                "open_issues": 77,
+                "last_commit": "2026-09-09T11:09:31Z",
+                "open_issues": 68,
                 "owner": "Project-N-E-K-O",
                 "repo": "N.E.K.O",
-                "stars": 2798,
+                "stars": 2816,
                 "topics": [
                   "companion",
                   "digital-human",
@@ -796,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:10:10.649Z",
+    "last_updated": "2026-09-09T15:08:59.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧾🧸 A curated list of AI VTubers and their related projects",
