@@ -45,7 +45,7 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 49,107 | 🐛 225 | 🌐 TypeScript | 📅 2026-09-13
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 49,130 | 🐛 219 | 🌐 TypeScript | 📅 2026-09-14
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
@@ -65,7 +65,7 @@
 
   AI虚拟伙伴 Web 版
 
-* [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair) ⭐ 202 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-12
+* [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair) ⭐ 204 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-12
 
   AITuber OnAir — an open‑source monorepo for AITuber/AIVTuber streaming with packages for chat/LLM integration, multi‑engine TTS/voice, a WebSocket chat client, and a “kizuna” relationship system. (MIT, TypeScript)
 
@@ -75,7 +75,7 @@
 
 ### B
 
-* [Bella](https://github.com/Jackywine/Bella) ⭐ 6,369 | 🐛 72 | 🌐 JavaScript | 📅 2026-02-05
+* [Bella](https://github.com/Jackywine/Bella) ⭐ 6,368 | 🐛 72 | 🌐 JavaScript | 📅 2026-02-05
 
   Bella: 你的数字伴侣，正在唤醒
   Basically a Grok Companion recreation.
@@ -86,19 +86,19 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,329 | 🐛 1,402 | 🌐 TypeScript | 📅 2026-09-13
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,333 | 🐛 1,447 | 🌐 TypeScript | 📅 2026-09-14
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
 ### J
 
-* [limitcantcode/jaison-core](https://github.com/limitcantcode/jaison-core) ⭐ 489 | 🐛 5 | 🌐 Python | 📅 2026-05-28
+* [limitcantcode/jaison-core](https://github.com/limitcantcode/jaison-core) ⭐ 490 | 🐛 5 | 🌐 Python | 📅 2026-05-28
 
   Configurable response server for Project J.A.I.son
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,169 | 🐛 89 | 🌐 Rust | 📅 2026-09-13
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,179 | 🐛 94 | 🌐 Rust | 📅 2026-09-14
 
   GPT chat with emotional expressions.
 
@@ -106,11 +106,11 @@
 
 ### M
 
-* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,657 | 🐛 127 | 🌐 ShaderLab | 📅 2026-01-20
+* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,660 | 🐛 127 | 🌐 ShaderLab | 📅 2026-01-20
 
   A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 
-* [morettt/my-neuro](https://github.com/morettt/my-neuro) ⭐ 1,359 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-11
+* [morettt/my-neuro](https://github.com/morettt/my-neuro) ⭐ 1,360 | 🐛 31 | 🌐 JavaScript | 📅 2026-09-13
 
   这是一个属于你自己的 Neuro-sama
 
@@ -120,7 +120,7 @@
 
 ### N
 
-* [kimjammer/Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,082 | 🐛 7 | 🌐 Python | 📅 2025-01-17
+* [kimjammer/Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,083 | 🐛 7 | 🌐 Python | 📅 2025-01-17
 
   A recreation of Neuro-Sama originally created in 7 days. (MIT, Python)
 
@@ -136,13 +136,13 @@
 
 ### P
 
-* [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-09-13
+* [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-09-14
 
   A modular, fully autonomous AI VTuber engine built around a plugin skill system. Supports multiple LLMs (Gemini, OpenAI, Groq, GLM) and TTS providers (EdgeTTS, Kokoro, Orpheus), long-term RAG memory via ChromaDB, Discord voice integration, an autonomous Minecraft agent, OBS control, and a React + FastAPI web dashboard. Designed for modularity and extensibility. (MIT, Python, JavaScript)
 
 ### R
 
-* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,079 | 🐛 21 | 🌐 Python | 📅 2025-06-25
+* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,084 | 🐛 21 | 🌐 Python | 📅 2025-06-25
 
   The public version of the Riko Project
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,880 | 🐛 68 | 🌐 Python | 📅 2026-09-13
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,896 | 🐛 68 | 🌐 Python | 📅 2026-09-14
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
@@ -168,7 +168,7 @@
 
 ### Z
 
-* [SugarcaneDefender/z-waif](https://github.com/SugarcaneDefender/z-waif) ⭐ 586 | 🐛 4 | 🌐 Python | 📅 2026-06-19
+* [SugarcaneDefender/z-waif](https://github.com/SugarcaneDefender/z-waif) ⭐ 587 | 🐛 4 | 🌐 Python | 📅 2026-06-19
 
   Fully local program to make your own AI waifu! Vtuber model, voice, ect. (MIT, Python)
 
@@ -180,4 +180,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
