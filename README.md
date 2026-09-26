@@ -45,7 +45,7 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 49,397 | 🐛 239 | 🌐 TypeScript | 📅 2026-09-25
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 49,413 | 🐛 238 | 🌐 TypeScript | 📅 2026-09-26
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
@@ -65,7 +65,7 @@
 
   AI虚拟伙伴 Web 版
 
-* [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair) ⭐ 215 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-25
+* [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair) ⭐ 217 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-26
 
   AITuber OnAir — an open‑source monorepo for AITuber/AIVTuber streaming with packages for chat/LLM integration, multi‑engine TTS/voice, a WebSocket chat client, and a “kizuna” relationship system. (MIT, TypeScript)
 
@@ -75,7 +75,7 @@
 
 ### B
 
-* [Bella](https://github.com/Jackywine/Bella) ⭐ 6,369 | 🐛 72 | 🌐 JavaScript | 📅 2026-02-05
+* [Bella](https://github.com/Jackywine/Bella) ⭐ 6,367 | 🐛 72 | 🌐 JavaScript | 📅 2026-02-05
 
   Bella: 你的数字伴侣，正在唤醒
   Basically a Grok Companion recreation.
@@ -86,7 +86,7 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,500 | 🐛 1,620 | 🌐 TypeScript | 📅 2026-09-25
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,505 | 🐛 1,125 | 🌐 TypeScript | 📅 2026-09-26
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
@@ -98,7 +98,7 @@
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,254 | 🐛 87 | 🌐 Rust | 📅 2026-09-25
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,260 | 🐛 91 | 🌐 Rust | 📅 2026-09-26
 
   GPT chat with emotional expressions.
 
@@ -136,19 +136,19 @@
 
 ### P
 
-* [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2026-09-25
+* [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2026-09-26
 
   A modular, fully autonomous AI VTuber engine built around a plugin skill system. Supports multiple LLMs (Gemini, OpenAI, Groq, GLM) and TTS providers (EdgeTTS, Kokoro, Orpheus), long-term RAG memory via ChromaDB, Discord voice integration, an autonomous Minecraft agent, OBS control, and a React + FastAPI web dashboard. Designed for modularity and extensibility. (MIT, Python, JavaScript)
 
 ### R
 
-* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,134 | 🐛 21 | 🌐 Python | 📅 2025-06-25
+* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,136 | 🐛 21 | 🌐 Python | 📅 2025-06-25
 
   The public version of the Riko Project
 
 ### S
 
-* [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) ⭐ 3,776 | 🐛 14 | 🌐 Python | 📅 2025-03-08
+* [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) ⭐ 3,778 | 🐛 14 | 🌐 Python | 📅 2025-03-08
 
   Trending Selling LLM 🛒🎁, a selling LLM capable of explaining products based on the characteristics of the given product from the perspective of motivating the user's purchase intention. (AGPL, Python, Vue)
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,972 | 🐛 96 | 🌐 Python | 📅 2026-09-25
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 2,976 | 🐛 95 | 🌐 Python | 📅 2026-09-26
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
@@ -180,4 +180,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
