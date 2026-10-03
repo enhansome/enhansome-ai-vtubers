@@ -45,7 +45,7 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 49,948 | 🐛 243 | 🌐 TypeScript | 📅 2026-10-03
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 49,966 | 🐛 243 | 🌐 TypeScript | 📅 2026-10-03
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
@@ -65,7 +65,7 @@
 
   AI虚拟伙伴 Web 版
 
-* [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair) ⭐ 233 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-02
+* [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair) ⭐ 233 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-03
 
   AITuber OnAir — an open‑source monorepo for AITuber/AIVTuber streaming with packages for chat/LLM integration, multi‑engine TTS/voice, a WebSocket chat client, and a “kizuna” relationship system. (MIT, TypeScript)
 
@@ -86,7 +86,7 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,536 | 🐛 116 | 🌐 TypeScript | 📅 2026-10-03
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,535 | 🐛 169 | 🌐 TypeScript | 📅 2026-10-03
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
@@ -98,7 +98,7 @@
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,301 | 🐛 95 | 🌐 Rust | 📅 2026-10-02
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,306 | 🐛 96 | 🌐 Rust | 📅 2026-10-02
 
   GPT chat with emotional expressions.
 
@@ -106,11 +106,11 @@
 
 ### M
 
-* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,729 | 🐛 127 | 🌐 ShaderLab | 📅 2026-01-20
+* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,731 | 🐛 127 | 🌐 ShaderLab | 📅 2026-01-20
 
   A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 
-* [morettt/my-neuro](https://github.com/morettt/my-neuro) ⭐ 1,387 | 🐛 33 | 🌐 JavaScript | 📅 2026-10-01
+* [morettt/my-neuro](https://github.com/morettt/my-neuro) ⭐ 1,387 | 🐛 35 | 🌐 JavaScript | 📅 2026-10-01
 
   这是一个属于你自己的 Neuro-sama
 
@@ -120,7 +120,7 @@
 
 ### N
 
-* [kimjammer/Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,094 | 🐛 7 | 🌐 Python | 📅 2025-01-17
+* [kimjammer/Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,093 | 🐛 7 | 🌐 Python | 📅 2025-01-17
 
   A recreation of Neuro-Sama originally created in 7 days. (MIT, Python)
 
@@ -130,7 +130,7 @@
 
 ### O
 
-* [t41372/Open-LLM-VTuber](https://github.com/t41372/Open-LLM-VTuber) ⭐ 45 | 🐛 0 | 📅 2026-02-14
+* [t41372/Open-LLM-VTuber](https://github.com/t41372/Open-LLM-VTuber) ⭐ 46 | 🐛 0 | 📅 2026-02-14
 
   Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms. (MIT, Python, JavaScript)
 
@@ -142,13 +142,13 @@
 
 ### R
 
-* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,146 | 🐛 22 | 🌐 Python | 📅 2025-06-25
+* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,147 | 🐛 22 | 🌐 Python | 📅 2025-06-25
 
   The public version of the Riko Project
 
 ### S
 
-* [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) ⭐ 3,777 | 🐛 14 | 🌐 Python | 📅 2025-03-08
+* [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) ⭐ 3,778 | 🐛 14 | 🌐 Python | 📅 2025-03-08
 
   Trending Selling LLM 🛒🎁, a selling LLM capable of explaining products based on the characteristics of the given product from the perspective of motivating the user's purchase intention. (AGPL, Python, Vue)
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 3,008 | 🐛 87 | 🌐 Python | 📅 2026-10-03
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 3,010 | 🐛 85 | 🌐 Python | 📅 2026-10-03
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
