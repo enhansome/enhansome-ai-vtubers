@@ -45,7 +45,7 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 49,933 | 🐛 254 | 🌐 TypeScript | 📅 2026-10-02
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 49,948 | 🐛 243 | 🌐 TypeScript | 📅 2026-10-03
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
@@ -53,7 +53,7 @@
 
   AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。
 
-* [semperai/amica](https://github.com/semperai/amica/) ⭐ 1,602 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-22
+* [semperai/amica](https://github.com/semperai/amica/) ⭐ 1,603 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-22
 
   Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition. (MIT, TypeScript)
 
@@ -61,11 +61,11 @@
 
   AI Vtuber for Streaming on Youtube/Twitch. (Unlicensed, Python)
 
-* [swordswind/ai\_virtual\_mate\_web](https://github.com/swordswind/ai_virtual_mate_web) ⭐ 752 | 🐛 1 | 🌐 Python | 📅 2026-06-12
+* [swordswind/ai\_virtual\_mate\_web](https://github.com/swordswind/ai_virtual_mate_web) ⭐ 753 | 🐛 1 | 🌐 Python | 📅 2026-06-12
 
   AI虚拟伙伴 Web 版
 
-* [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair) ⭐ 232 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-02
+* [shinshin86/aituber-onair](https://github.com/shinshin86/aituber-onair) ⭐ 233 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-02
 
   AITuber OnAir — an open‑source monorepo for AITuber/AIVTuber streaming with packages for chat/LLM integration, multi‑engine TTS/voice, a WebSocket chat client, and a “kizuna” relationship system. (MIT, TypeScript)
 
@@ -86,7 +86,7 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,533 | 🐛 64 | 🌐 TypeScript | 📅 2026-10-02
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,536 | 🐛 116 | 🌐 TypeScript | 📅 2026-10-03
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
@@ -98,7 +98,7 @@
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,298 | 🐛 95 | 🌐 Rust | 📅 2026-10-02
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,301 | 🐛 95 | 🌐 Rust | 📅 2026-10-02
 
   GPT chat with emotional expressions.
 
@@ -106,7 +106,7 @@
 
 ### M
 
-* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,725 | 🐛 127 | 🌐 ShaderLab | 📅 2026-01-20
+* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,729 | 🐛 127 | 🌐 ShaderLab | 📅 2026-01-20
 
   A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 
@@ -142,7 +142,7 @@
 
 ### R
 
-* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,145 | 🐛 22 | 🌐 Python | 📅 2025-06-25
+* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,146 | 🐛 22 | 🌐 Python | 📅 2025-06-25
 
   The public version of the Riko Project
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 3,008 | 🐛 87 | 🌐 Python | 📅 2026-10-02
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 3,008 | 🐛 87 | 🌐 Python | 📅 2026-10-03
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
@@ -168,7 +168,7 @@
 
 ### Z
 
-* [SugarcaneDefender/z-waif](https://github.com/SugarcaneDefender/z-waif) ⭐ 593 | 🐛 4 | 🌐 Python | 📅 2026-06-19
+* [SugarcaneDefender/z-waif](https://github.com/SugarcaneDefender/z-waif) ⭐ 595 | 🐛 4 | 🌐 Python | 📅 2026-06-19
 
   Fully local program to make your own AI waifu! Vtuber model, voice, ect. (MIT, Python)
 
@@ -180,4 +180,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
