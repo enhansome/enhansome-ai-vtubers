@@ -17,11 +17,11 @@
                 "id": 896924279,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T18:04:30Z",
-                "open_issues": 240,
+                "last_commit": "2026-10-14T15:22:59Z",
+                "open_issues": 244,
                 "owner": "moeru-ai",
                 "repo": "airi",
-                "stars": 50348,
+                "stars": 50385,
                 "topics": [
                   "ai-companion",
                   "ai-vtuber",
@@ -121,10 +121,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-05-31T14:59:43Z",
-                "open_issues": 44,
+                "open_issues": 43,
                 "owner": "ardha27",
                 "repo": "AI-Waifu-Vtuber",
-                "stars": 1117,
+                "stars": 1118,
                 "topics": [
                   "ai-vtuber",
                   "ai-waifu",
@@ -174,11 +174,11 @@
                 "id": 948855680,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T06:24:11Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-14T05:57:43Z",
+                "open_issues": 1,
                 "owner": "shinshin86",
                 "repo": "aituber-onair",
-                "stars": 271,
+                "stars": 272,
                 "topics": [
                   "ai-companion",
                   "ai-companion-systems",
@@ -281,11 +281,11 @@
                 "id": 826170402,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T15:17:20Z",
-                "open_issues": 240,
+                "last_commit": "2026-10-14T15:43:13Z",
+                "open_issues": 32,
                 "owner": "elizaOS",
                 "repo": "eliza",
-                "stars": 19588,
+                "stars": 19601,
                 "topics": [
                   "agent",
                   "agentic",
@@ -353,11 +353,11 @@
                 "id": 961384267,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-13T15:10:01Z",
-                "open_issues": 103,
+                "last_commit": "2026-10-14T14:43:38Z",
+                "open_issues": 80,
                 "owner": "SlimeBoyOwO",
                 "repo": "LingChat",
-                "stars": 2349,
+                "stars": 2351,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -385,7 +385,7 @@
                 "open_issues": 133,
                 "owner": "shinyflvre",
                 "repo": "Mate-Engine",
-                "stars": 3755,
+                "stars": 3762,
                 "topics": [
                   "anime",
                   "desktop",
@@ -443,7 +443,7 @@
                 "open_issues": 0,
                 "owner": "Moemu",
                 "repo": "Muice-Chatbot",
-                "stars": 540,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -471,7 +471,7 @@
                 "open_issues": 7,
                 "owner": "kimjammer",
                 "repo": "Neuro",
-                "stars": 2099,
+                "stars": 2101,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -492,7 +492,7 @@
                 "open_issues": 30,
                 "owner": "KroMiose",
                 "repo": "nekro-agent",
-                "stars": 1142,
+                "stars": 1144,
                 "topics": [
                   "agent",
                   "ai",
@@ -553,7 +553,7 @@
                 "id": 1160393216,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T15:54:39Z",
+                "last_commit": "2026-10-14T06:52:05Z",
                 "open_issues": 1,
                 "owner": "emqnuele",
                 "repo": "projectBEA",
@@ -602,10 +602,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-06-25T01:15:44Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "rayenfeng",
                 "repo": "riko_project",
-                "stars": 1164,
+                "stars": 1165,
                 "topics": [
                   "ai",
                   "anime"
@@ -636,7 +636,7 @@
                 "open_issues": 14,
                 "owner": "PeterH0323",
                 "repo": "Streamer-Sales",
-                "stars": 3787,
+                "stars": 3788,
                 "topics": [
                   "asr",
                   "chat",
@@ -724,11 +724,11 @@
                 "id": 1010767195,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T14:43:42Z",
-                "open_issues": 86,
+                "last_commit": "2026-10-14T14:05:23Z",
+                "open_issues": 85,
                 "owner": "Project-N-E-K-O",
                 "repo": "N.E.K.O",
-                "stars": 3054,
+                "stars": 3061,
                 "topics": [
                   "companion",
                   "digital-human",
@@ -809,7 +809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T18:21:54.655Z",
+    "last_updated": "2026-10-14T15:50:42.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧾🧸 A curated list of AI VTubers and their related projects",
@@ -821,7 +821,7 @@
       "open_issues": 3,
       "owner": "proj-airi",
       "repo": "awesome-ai-vtubers",
-      "stars": 507,
+      "stars": 508,
       "topics": [
         "ai-companion",
         "ai-vtuber",
