@@ -45,7 +45,7 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 50,627 | 🐛 235 | 🌐 TypeScript | 📅 2026-10-23
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 50,667 | 🐛 236 | 🌐 TypeScript | 📅 2026-10-24
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
@@ -75,7 +75,7 @@
 
 ### B
 
-* [Bella](https://github.com/Jackywine/Bella) ⭐ 6,352 | 🐛 72 | 🌐 JavaScript | 📅 2026-02-05
+* [Bella](https://github.com/Jackywine/Bella) ⭐ 6,348 | 🐛 72 | 🌐 JavaScript | 📅 2026-02-05
 
   Bella: 你的数字伴侣，正在唤醒
   Basically a Grok Companion recreation.
@@ -86,7 +86,7 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,638 | 🐛 202 | 🌐 TypeScript | 📅 2026-10-23
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,643 | 🐛 275 | 🌐 TypeScript | 📅 2026-10-24
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
@@ -98,7 +98,7 @@
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,387 | 🐛 79 | 🌐 Rust | 📅 2026-10-23
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,391 | 🐛 80 | 🌐 Rust | 📅 2026-10-23
 
   GPT chat with emotional expressions.
 
@@ -106,7 +106,7 @@
 
 ### M
 
-* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,800 | 🐛 135 | 🌐 ShaderLab | 📅 2026-01-20
+* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,802 | 🐛 135 | 🌐 ShaderLab | 📅 2026-01-20
 
   A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 
@@ -120,11 +120,11 @@
 
 ### N
 
-* [kimjammer/Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,101 | 🐛 7 | 🌐 Python | 📅 2025-01-17
+* [kimjammer/Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,102 | 🐛 7 | 🌐 Python | 📅 2025-01-17
 
   A recreation of Neuro-Sama originally created in 7 days. (MIT, Python)
 
-* [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent) ⭐ 1,156 | 🐛 30 | 🌐 Python | 📅 2026-10-09
+* [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent) ⭐ 1,156 | 🐛 29 | 🌐 Python | 📅 2026-10-09
 
   一个面向事件 IO 流的由沙盒驱动的 Agent 中枢，其核心是通过强大灵活的提示词构建系统，引导 AI 生成代码并在安全的沙盒环境中执行从而对外产生响应行为。它通过原生的多平台适配器架构实现了强大的跨平台事件流处理能力，能够无缝支持 OneBot v11 (QQ群聊)、Discord、Minecraft 和 B站直播(可驱动Live2D形象进行演出) 等多种自定义平台。项目还拥有高度可扩展的插件系统、人设与插件共享生态，并支持在复杂的群聊多人交互场景中进行高效互动。目标是成为一个真正通用的 AI Agent 框架，让任何人都能快速搭建高度定制化的生产力和娱乐性兼备的超级中枢 AI！ (Apache-2.0, Python)
 
@@ -136,13 +136,13 @@
 
 ### P
 
-* [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) ⭐ 27 | 🐛 7 | 🌐 Python | 📅 2026-10-21
+* [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) ⭐ 27 | 🐛 9 | 🌐 Python | 📅 2026-10-24
 
   A modular, fully autonomous AI VTuber engine built around a plugin skill system. Supports multiple LLMs (Gemini, OpenAI, Groq, GLM) and TTS providers (EdgeTTS, Kokoro, Orpheus), long-term RAG memory via ChromaDB, Discord voice integration, an autonomous Minecraft agent, OBS control, and a React + FastAPI web dashboard. Designed for modularity and extensibility. (MIT, Python, JavaScript)
 
 ### R
 
-* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,172 | 🐛 22 | 🌐 Python | 📅 2025-06-25
+* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,173 | 🐛 23 | 🌐 Python | 📅 2026-10-23
 
   The public version of the Riko Project
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 3,096 | 🐛 88 | 🌐 Python | 📅 2026-10-23
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 3,097 | 🐛 87 | 🌐 Python | 📅 2026-10-24
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
@@ -180,4 +180,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
