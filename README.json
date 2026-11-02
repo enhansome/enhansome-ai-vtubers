@@ -17,11 +17,11 @@
                 "id": 896924279,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T16:47:52Z",
-                "open_issues": 262,
+                "last_commit": "2026-11-02T18:47:08Z",
+                "open_issues": 261,
                 "owner": "moeru-ai",
                 "repo": "airi",
-                "stars": 50991,
+                "stars": 51028,
                 "topics": [
                   "ai-companion",
                   "ai-vtuber",
@@ -54,7 +54,7 @@
                 "open_issues": 33,
                 "owner": "Ikaros-521",
                 "repo": "AI-Vtuber",
-                "stars": 4552,
+                "stars": 4559,
                 "topics": [
                   "ai",
                   "bilibili",
@@ -96,7 +96,7 @@
                 "open_issues": 20,
                 "owner": "semperai",
                 "repo": "amica",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": [
                   "ai",
                   "assistant-chat-bots",
@@ -236,7 +236,7 @@
                 "open_issues": 72,
                 "owner": "Jackywine",
                 "repo": "Bella",
-                "stars": 6344,
+                "stars": 6342,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -281,11 +281,11 @@
                 "id": 826170402,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T16:41:41Z",
-                "open_issues": 231,
+                "last_commit": "2026-11-02T20:34:33Z",
+                "open_issues": 286,
                 "owner": "elizaOS",
                 "repo": "eliza",
-                "stars": 19748,
+                "stars": 19756,
                 "topics": [
                   "agent",
                   "agentic",
@@ -353,11 +353,11 @@
                 "id": 961384267,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-01T02:21:06Z",
+                "last_commit": "2026-11-01T17:32:44Z",
                 "open_issues": 80,
                 "owner": "SlimeBoyOwO",
                 "repo": "LingChat",
-                "stars": 2419,
+                "stars": 2421,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -385,7 +385,7 @@
                 "open_issues": 135,
                 "owner": "shinyflvre",
                 "repo": "Mate-Engine",
-                "stars": 3835,
+                "stars": 3837,
                 "topics": [
                   "anime",
                   "desktop",
@@ -409,11 +409,11 @@
                 "id": 910151759,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T11:45:27Z",
+                "last_commit": "2026-11-02T08:55:35Z",
                 "open_issues": 35,
                 "owner": "morettt",
                 "repo": "my-neuro",
-                "stars": 1422,
+                "stars": 1423,
                 "topics": [
                   "agent",
                   "ai",
@@ -471,7 +471,7 @@
                 "open_issues": 7,
                 "owner": "kimjammer",
                 "repo": "Neuro",
-                "stars": 2108,
+                "stars": 2109,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -492,7 +492,7 @@
                 "open_issues": 31,
                 "owner": "KroMiose",
                 "repo": "nekro-agent",
-                "stars": 1162,
+                "stars": 1164,
                 "topics": [
                   "agent",
                   "ai",
@@ -557,7 +557,7 @@
                 "open_issues": 9,
                 "owner": "emqnuele",
                 "repo": "projectBEA",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "agent-framework",
                   "ai-agent",
@@ -605,7 +605,7 @@
                 "open_issues": 23,
                 "owner": "rayenfeng",
                 "repo": "riko_project",
-                "stars": 1184,
+                "stars": 1185,
                 "topics": [
                   "ai",
                   "anime"
@@ -636,7 +636,7 @@
                 "open_issues": 15,
                 "owner": "PeterH0323",
                 "repo": "Streamer-Sales",
-                "stars": 3798,
+                "stars": 3799,
                 "topics": [
                   "asr",
                   "chat",
@@ -719,26 +719,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A catgirl who lives with you in real time — reaching out first, sharing your media, and actually getting things done, powered by an embodied emotional engine.🐱❤️一只会主动找你玩的 AI 猫娘。",
+                "description": " Open-source companion agents, and the community that raises them: realtime voice & vision, long-term memory, Live2D / 3D avatars, game companions, social visits and a plugin market. 🐱开源的伙伴 Agent，和一个人与猫娘共同生活的社区。",
                 "homepage": "https://store.steampowered.com/app/4099310",
                 "id": 1010767195,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T16:29:29Z",
-                "open_issues": 113,
+                "last_commit": "2026-11-02T18:38:05Z",
+                "open_issues": 108,
                 "owner": "Project-N-E-K-O",
                 "repo": "N.E.K.O",
-                "stars": 3157,
+                "stars": 3164,
                 "topics": [
+                  "ai-companion",
                   "companion",
+                  "companion-agent",
                   "digital-lifeform",
                   "game-companion",
-                  "jarvis-assistant",
                   "own-your-data",
-                  "personal",
                   "personal-agent",
+                  "plugin-marketplace",
+                  "plugin-system",
                   "proactive-agent",
                   "proactive-ai",
+                  "realtime-voice",
                   "waifu"
                 ]
               },
@@ -767,7 +770,7 @@
                 "open_issues": 4,
                 "owner": "SugarcaneDefender",
                 "repo": "z-waif",
-                "stars": 608,
+                "stars": 609,
                 "topics": [
                   "ai-waifu",
                   "open-source",
@@ -795,7 +798,7 @@
                 "open_issues": 3,
                 "owner": "Zao-chen",
                 "repo": "ZcChat",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:44.268Z"
@@ -810,7 +813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:09:34.878Z",
+    "last_updated": "2026-11-02T20:48:33.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧾🧸 A curated list of AI VTubers and their related projects",
@@ -822,7 +825,7 @@
       "open_issues": 4,
       "owner": "proj-airi",
       "repo": "awesome-ai-vtubers",
-      "stars": 513,
+      "stars": 514,
       "topics": [
         "ai-companion",
         "ai-vtuber",
