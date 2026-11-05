@@ -45,11 +45,11 @@
 
 ### A
 
-* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 51,104 | 🐛 276 | 🌐 TypeScript | 📅 2026-11-04
+* [AIRI (アイリ)](https://github.com/moeru-ai/airi) ⭐ 51,136 | 🐛 279 | 🌐 TypeScript | 📅 2026-11-05
 
   A container of souls of AI waifu / virtual characters to bring them into our worlds, wishing to achieve Neuro-sama's altitude, completely LLM and AI driven, capable of realtime voice chat, Minecraft playing, Factorio playing. Can be run in Browser or Desktop. Built with many support of Web technologies such as [WebGPU](https://www.w3.org/TR/webgpu/), [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API), [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), [WebAssembly](https://webassembly.org/), [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), etc. from the first day. (MIT, Node.js, TypeScript, Python, Rust, Golang)
 
-* [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) ⭐ 4,579 | 🐛 33 | 🌐 Python | 📅 2026-10-31
+* [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) ⭐ 4,585 | 🐛 33 | 🌐 Python | 📅 2026-10-31
 
   AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。
 
@@ -75,7 +75,7 @@
 
 ### B
 
-* [Bella](https://github.com/Jackywine/Bella) ⭐ 6,335 | 🐛 72 | 🌐 JavaScript | 📅 2026-02-05
+* [Bella](https://github.com/Jackywine/Bella) ⭐ 6,334 | 🐛 72 | 🌐 JavaScript | 📅 2026-02-05
 
   Bella: 你的数字伴侣，正在唤醒
   Basically a Grok Companion recreation.
@@ -86,7 +86,7 @@
 
 ### E
 
-* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,769 | 🐛 322 | 🌐 TypeScript | 📅 2026-11-04
+* [elizaOS/eliza](https://github.com/elizaOS/eliza) ⭐ 19,772 | 🐛 392 | 🌐 TypeScript | 📅 2026-11-05
 
   Autonomous agents for everyone (MIT, Python, TypeScript)
 
@@ -98,7 +98,7 @@
 
 ### L
 
-* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,434 | 🐛 78 | 🌐 Rust | 📅 2026-11-03
+* [SlimeBoyOwO/LingChat](https://github.com/SlimeBoyOwO/LingChat) ⭐ 2,434 | 🐛 73 | 🌐 Rust | 📅 2026-11-03
 
   GPT chat with emotional expressions.
 
@@ -106,11 +106,11 @@
 
 ### M
 
-* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,842 | 🐛 135 | 🌐 ShaderLab | 📅 2026-01-20
+* [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) ⭐ 3,846 | 🐛 135 | 🌐 ShaderLab | 📅 2026-01-20
 
   A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 
-* [morettt/my-neuro](https://github.com/morettt/my-neuro) ⭐ 1,428 | 🐛 35 | 🌐 JavaScript | 📅 2026-11-02
+* [morettt/my-neuro](https://github.com/morettt/my-neuro) ⭐ 1,431 | 🐛 37 | 🌐 JavaScript | 📅 2026-11-02
 
   这是一个属于你自己的 Neuro-sama
 
@@ -120,11 +120,11 @@
 
 ### N
 
-* [kimjammer/Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,110 | 🐛 7 | 🌐 Python | 📅 2025-01-17
+* [kimjammer/Neuro](https://github.com/kimjammer/Neuro) ⭐ 2,111 | 🐛 7 | 🌐 Python | 📅 2025-01-17
 
   A recreation of Neuro-Sama originally created in 7 days. (MIT, Python)
 
-* [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent) ⭐ 1,165 | 🐛 31 | 🌐 Python | 📅 2026-10-09
+* [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent) ⭐ 1,165 | 🐛 32 | 🌐 Python | 📅 2026-10-09
 
   一个面向事件 IO 流的由沙盒驱动的 Agent 中枢，其核心是通过强大灵活的提示词构建系统，引导 AI 生成代码并在安全的沙盒环境中执行从而对外产生响应行为。它通过原生的多平台适配器架构实现了强大的跨平台事件流处理能力，能够无缝支持 OneBot v11 (QQ群聊)、Discord、Minecraft 和 B站直播(可驱动Live2D形象进行演出) 等多种自定义平台。项目还拥有高度可扩展的插件系统、人设与插件共享生态，并支持在复杂的群聊多人交互场景中进行高效互动。目标是成为一个真正通用的 AI Agent 框架，让任何人都能快速搭建高度定制化的生产力和娱乐性兼备的超级中枢 AI！ (Apache-2.0, Python)
 
@@ -136,19 +136,19 @@
 
 ### P
 
-* [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) ⭐ 28 | 🐛 9 | 🌐 Python | 📅 2026-10-24
+* [emqnuele/projectBEA](https://github.com/emqnuele/projectBEA) ⭐ 29 | 🐛 9 | 🌐 Python | 📅 2026-10-24
 
   A modular, fully autonomous AI VTuber engine built around a plugin skill system. Supports multiple LLMs (Gemini, OpenAI, Groq, GLM) and TTS providers (EdgeTTS, Kokoro, Orpheus), long-term RAG memory via ChromaDB, Discord voice integration, an autonomous Minecraft agent, OBS control, and a React + FastAPI web dashboard. Designed for modularity and extensibility. (MIT, Python, JavaScript)
 
 ### R
 
-* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,189 | 🐛 23 | 🌐 Python | 📅 2026-10-23
+* [rayenfeng/riko\_project](https://github.com/rayenfeng/riko_project) ⭐ 1,190 | 🐛 23 | 🌐 Python | 📅 2026-10-23
 
   The public version of the Riko Project
 
 ### S
 
-* [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) ⭐ 3,800 | 🐛 15 | 🌐 Python | 📅 2025-03-08
+* [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) ⭐ 3,803 | 🐛 15 | 🌐 Python | 📅 2025-03-08
 
   Trending Selling LLM 🛒🎁, a selling LLM capable of explaining products based on the characteristics of the given product from the perspective of motivating the user's purchase intention. (AGPL, Python, Vue)
 
@@ -160,7 +160,7 @@
 
 ### X
 
-* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 3,180 | 🐛 106 | 🌐 Python | 📅 2026-11-04
+* [wehos/Xiao8](https://github.com/wehos/Xiao8) ⭐ 3,186 | 🐛 107 | 🌐 Python | 📅 2026-11-05
 
   Lanlan, a user-friendly, audio-native AI for all scenarios, ready to use in just 3 minutes.
 
@@ -180,4 +180,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
